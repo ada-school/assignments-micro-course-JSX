@@ -1,5 +1,14 @@
-import './App.css'
+import "./App.css";
+import { CharacterSection } from "./components/CharacterSection";
+import { DetailMovie } from "./components/DetailMovie";
+import { NavBar } from "./components/NavBar";
 
 export function App() {
-	return <h1>Ada-project</h1>
+  return (
+    <>
+      <NavBar />
+      <DetailMovie />
+      <CharacterSection />
+    </>
+  );
 }
