@@ -24,4 +24,4 @@ export const charactersInformation = [
 		imageURL:
 			'https://media.ada-school.org/5fcd3ac12b22eab4d301d819/64341b68339e6a75c738ef01/dall_e_2024_04_11_20_38_35___an_older_man_in_a_higher_rank_military_uniform__appearing_authoritative_yet_contemplative__stands_against_a_backdrop_that_subtly_suggests_a_military_s-ccc4b121-baf7-4aa0-b2a3-db4fae01dcbd.webp',
 	},
-]
+];
